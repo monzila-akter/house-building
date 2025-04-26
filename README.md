@@ -1,3 +1,36 @@
+# Real Estate Website - Homepage
+
+A modern real estate website homepage built with React, Tailwind CSS, and various UI libraries. This single-page application showcases property listings with interactive components.
+
+## Features
+
+- **Responsive Navbar**: With mobile-friendly dropdown menu.
+- **Hero Section**: Eye-catching banner with knock us menu.
+- **Category Section**: Browse by category
+- **Properties Section**: Featured property listings
+- **Deals Section**: Interactive property carousel
+- **Feedback Section**: Client testimonials with images
+- **Popular Places Section**: Location-based property highlights
+- **Subscribe Section**: Newsletter signup form
+- **Footer**: Comprehensive site links and information
+
+## Technologies Used
+
+- **Frontend Framework**: React JS
+- **Routing**: React router
+- **Styling**: Tailwind CSS
+- **UI Components**: Daisy UI
+- **Icons**: 
+  - React Icons
+  - Lucide Icons
+
+## Live Link: 
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
